@@ -1,14 +1,5 @@
-### Hi there 👋
-```js
-const Me = "Raymond-Arthur May"
-
-// 🔭 I’m currently working on a SplitWise Clone....
-function currentProject() {
-   this.what = "My Fare is a bill splitting application!",
-   this.why = "To become familiar with simple datastructures and algorithems.",
-   this.tech = ["React", "Redux", "Javascript", "Node.js"]
-}
-```
+### Aloha 👋
+- 🔭 I’m currently working on a SplitWise Clone.... My Fair.
 - 🎓 I graduated from App Academey on April 26th, 2021!
 - 👯 I’m looking to collaborate on technologies such as BlockChains that aim to enable our communities.
 - 💬 Any ideas to benefit your local community? I'd love to help...
