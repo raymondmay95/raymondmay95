@@ -10,7 +10,7 @@ ___
 <br>
 <p>
 <a src="https://www.linkedin.com/in/coderay/">
-   <img src="./images/linkedin.png" alt="linkedin" style="width:2rem;height:2rem;">
+   <img src="./images/linkedin.png" alt="linkedin" width="2rem" height="2rem">
 </a>
 <a src="https://angel.co/u/raymond-arthur-may">
    <img src="./images/angellist.png" alt="angellist" style="width:2rem;height:2rem;">
