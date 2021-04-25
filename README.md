@@ -3,7 +3,11 @@
 const Me = "Raymond-Arthur May"
 
 // 🔭 I’m currently working on a SplitWise Clone....
-let curProject = "My Fare"
+function currentProject() {
+   this.what = "My Fare is a bill splitting application!",
+   this.why = "To become familiar with simple datastructures and algorithems.",
+   this.tech = ["React", "Redux", "Javascript", "Node.js"]
+}
 ```
 - 🎓 I graduated from App Academey on April 26th, 2021!
 - 👯 I’m looking to collaborate on technologies such as BlockChains that aim to enable our communities.
