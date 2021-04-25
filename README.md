@@ -1,6 +1,10 @@
 ### Hi there 👋
-![read-me-logo](images/read-me-logo.gif)
-- 🔭 I’m currently working on a SplitWise Clone.... My Fair.
+```js
+const Me = "Raymond-Arthur May"
+
+// 🔭 I’m currently working on a SplitWise Clone....
+let curProject = "My Fare"
+```
 - 🎓 I graduated from App Academey on April 26th, 2021!
 - 👯 I’m looking to collaborate on technologies such as BlockChains that aim to enable our communities.
 - 💬 Any ideas to benefit your local community? I'd love to help...
