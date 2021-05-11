@@ -10,13 +10,13 @@
 <br>
 <p>
 <a src="https://www.linkedin.com/in/coderay/">
-   <img src="./images/linkedin.png" alt="linkedin" width="200px" height="200px">
+   <img src="./images/linkedin.png" alt="linkedin" width="20%" height="20%">
 </a>
 <a src="https://angel.co/u/raymond-arthur-may">
-   <img src="./images/angellist.png" alt="angellist" width="200px" height="200px">
+   <img src="./images/angellist.png" alt="angellist" width="20%" height="20%">
 </a>
 <a src="https://www.raymondmay.com/">
-   <img src="./images/profile_pic.png" alt="personal site" width="200px" height="200px">
+   <img src="./images/profile_pic.png" alt="personal site" width="20%" height="20%">
 </a>
 </p>
 <br>
