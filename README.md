@@ -9,13 +9,13 @@
 
 <br>
 <p>
-<a src="https://www.linkedin.com/in/coderay/" target="_blank">
+<a href="https://www.linkedin.com/in/coderay/" target="_blank">
    <img src="./images/linkedin.png" alt="linkedin" width="20%" height="20%">
 </a>
-<a src="https://angel.co/u/raymond-arthur-may/" target="_blank">
+<a href="https://angel.co/u/raymond-arthur-may/" target="_blank">
    <img src="./images/angellist.png" alt="angellist" width="20%" height="20%">
 </a>
-<a src="https://www.raymondmay.com/" target="_blank">
+<a href="https://www.raymondmay.com/" target="_blank">
    <img src="./images/profile_pic.png" alt="personal site" width="20%" height="20%">
 </a>
 </p>
