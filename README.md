@@ -29,14 +29,15 @@ Here are some of the key skills I bring to the table:
 
 I'm open to collaboration and new opportunities. If you'd like to reach out, feel free to connect with me:
 
-<div>
+<p>
 <a href="https://www.linkedin.com/in/coderay/" target="_blank" style="text-decoration: none !important">
-   <img style="color: #fff !important" src="./images/linkedin.png" alt="linkedin" width="45px" height="45px">
+   <img src="./images/linkedin.png" alt="linkedin" width="45px" height="45px">
 </a>
+
 <a href="https://www.raymondmay.com/" target="_blank" style="text-decoration: none !important">
-   <img style="color: #fff !important" src="./images/profile_pic.png" alt="personal site" width="45px" height="45px">
+   <img src="./images/profile_pic.png" alt="personal site" width="45px" height="45px">
 </a>
-</div>
+</p>
 
 Feel free to get in touch if you'd like to collaborate on a project or discuss web development, React, TypeScript, cloud computing, Node.js, or anything else related to technology!
 
