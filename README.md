@@ -29,7 +29,7 @@ Here are some of the key skills I bring to the table:
 
 I'm open to collaboration and new opportunities. If you'd like to reach out, feel free to connect with me:
 
-- GitHub: [raymondmay95](https://github.com/raymondmay95)
+- [![GitHub Logo](https://github.com/favicon.ico)](https://github.com/raymondmay95)
 - LinkedIn: [coderay](https://www.linkedin.com/in/coderay/)
 - Email: [raymond.may.95@outlook.com](mailto:raymond.may.95@outlook.com)
 
