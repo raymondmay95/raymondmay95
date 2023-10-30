@@ -29,6 +29,7 @@ Here are some of the key skills I bring to the table:
 
 I'm open to collaboration and new opportunities. If you'd like to reach out, feel free to connect with me:
 
+[[!LinkedIn]("./images/linkedin.png")]("https://www.linkedin.com/in/coderay/")
 <a href="https://www.linkedin.com/in/coderay/" target="_blank" style="text-decoration: none; color: #fff">
    <img src="./images/linkedin.png" alt="linkedin" width="10%" height="10%">
 </a>
