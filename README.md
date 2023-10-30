@@ -29,7 +29,7 @@ Here are some of the key skills I bring to the table:
 
 I'm open to collaboration and new opportunities. If you'd like to reach out, feel free to connect with me:
 
-<div style={{display:'flex', justifyContent:'space-between'}}>
+<div style={{display:'flex', justifyContent:'space-between', width: "80%"}}>
 <a href="https://www.linkedin.com/in/coderay/" target="_blank">
    <img src="./images/linkedin.png" alt="linkedin" width="10%" height="10%">
 </a>
