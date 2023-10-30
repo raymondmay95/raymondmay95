@@ -29,11 +29,19 @@ Here are some of the key skills I bring to the table:
 
 I'm open to collaboration and new opportunities. If you'd like to reach out, feel free to connect with me:
 
-[![GitHub Logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)](https://github.com/raymondmay95)
-<br />
-[![LinkedIn Logo](https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin-horizontal.svg)](https://www.linkedin.com/in/coderay)
-<br />
-[![Email Logo]([https://image-url.com/email-icon.png](https://github.com/dheereshagrwal/colored-icons/blob/master/icons/microsoft/microsoft-horizontal.svg))](mailto:raymond.may.95@outlook.com)
+<br>
+<p>
+<a href="https://www.linkedin.com/in/coderay/" target="_blank">
+   <img src="./images/linkedin.png" alt="linkedin" width="10%" height="10%">
+</a>
+<a href="https://angel.co/u/raymond-arthur-may/" target="_blank">
+   <img src="./images/angellist.png" alt="angellist" width="10%" height="10%">
+</a>
+<a href="https://www.raymondmay.com/" target="_blank">
+   <img src="./images/profile_pic.png" alt="personal site" width="10%" height="10%">
+</a>
+</p>
+<br>
 
 Feel free to get in touch if you'd like to collaborate on a project or discuss web development, React, TypeScript, cloud computing, Node.js, or anything else related to technology!
 
