@@ -31,11 +31,11 @@ I'm open to collaboration and new opportunities. If you'd like to reach out, fee
 
 <p>
 <a href="https://www.linkedin.com/in/coderay/" target="_blank" style="text-decoration: none;">
-   <img src="./images/linkedin.png" alt="linkedin" width="45px" height="45px">
+   <img src="./images/linkedin.png" alt="linkedin" width="75px" height="75px">
 </a>
 
 <a href="https://www.raymondmay.com/" target="_blank" style="text-decoration: none;">
-   <img src="./images/profile_pic.png" alt="personal site" width="45px" height="45px">
+   <img src="./images/profile_pic.png" alt="personal site" width="75px" height="75px">
 </a>
 </p>
 
