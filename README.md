@@ -30,11 +30,11 @@ Here are some of the key skills I bring to the table:
 I'm open to collaboration and new opportunities. If you'd like to reach out, feel free to connect with me:
 
 <p>
-<a href="https://www.linkedin.com/in/coderay/" target="_blank" style="text-decoration: none !important">
+<a href="https://www.linkedin.com/in/coderay/" target="_blank" style="text-decoration: none;">
    <img src="./images/linkedin.png" alt="linkedin" width="45px" height="45px">
 </a>
 
-<a href="https://www.raymondmay.com/" target="_blank" style="text-decoration: none !important">
+<a href="https://www.raymondmay.com/" target="_blank" style="text-decoration: none;">
    <img src="./images/profile_pic.png" alt="personal site" width="45px" height="45px">
 </a>
 </p>
