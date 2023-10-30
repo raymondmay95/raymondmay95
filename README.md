@@ -29,9 +29,9 @@ Here are some of the key skills I bring to the table:
 
 I'm open to collaboration and new opportunities. If you'd like to reach out, feel free to connect with me:
 
-- [![GitHub Logo](https://github.com/favicon.ico)](https://github.com/raymondmay95)
-- LinkedIn: [coderay](https://www.linkedin.com/in/coderay/)
-- Email: [raymond.may.95@outlook.com](mailto:raymond.may.95@outlook.com)
+[![GitHub Logo](https://github.com/favicon.ico)](https://github.com/raymondmay95)
+[![LinkedIn Logo](https://image-url.com/linkedin-icon.png)](https://www.linkedin.com/in/coderay)
+[![Email Logo](https://image-url.com/email-icon.png)](mailto:raymond.may.95@outlook.com)
 
 Feel free to get in touch if you'd like to collaborate on a project or discuss web development, React, TypeScript, cloud computing, Node.js, or anything else related to technology!
 
