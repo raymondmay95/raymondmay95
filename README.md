@@ -29,7 +29,7 @@ Here are some of the key skills I bring to the table:
 
 I'm open to collaboration and new opportunities. If you'd like to reach out, feel free to connect with me:
 
-[![GitHub Logo](https://github.githubassets.com/assets/github-mark-c791e9551fe4.zip)](https://github.com/raymondmay95)
+[![GitHub Logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)](https://github.com/raymondmay95)
 <br />
 [![LinkedIn Logo](https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin-horizontal.svg)](https://www.linkedin.com/in/coderay)
 <br />
