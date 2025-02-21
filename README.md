@@ -1,45 +1,44 @@
-# 👋 Hello, I'm Raymond-Arthur K. May
+# 👋 Hey there, I'm **Raymond-Arthur K. May**  
 
-I'm a passionate web developer with expertise in various technologies. Welcome to my GitHub profile!
+Welcome to my GitHub! I'm a passionate **web developer** who loves building modern, efficient, and user-friendly web applications.  
 
-## 🚀 Skills
+## 🚀 **Tech Stack & Expertise**  
 
-Here are some of the key skills I bring to the table:
+### **🌐 Web Development**  
+I specialize in crafting **responsive and interactive** web applications using:  
+- **HTML, CSS, JavaScript** – The core building blocks of the web  
+- **React & TypeScript** – For scalable, maintainable, and performant front-end applications  
 
-- **Web Development:** I have a strong foundation in modern web development, including HTML, CSS, and JavaScript. I'm experienced in building responsive and interactive web applications.
+### **🖥️ Backend & Cloud**  
+Beyond front-end, I build and deploy **robust backend services** with:  
+- **Node.js** – API development & server-side logic  
+- **Database Management** – SQL (PostgreSQL, MySQL) & NoSQL (MongoDB)  
+- **Cloud Computing** – AWS, Azure, and Google Cloud for scalable infrastructure  
 
-- **React:** I'm proficient in React, one of the most popular JavaScript libraries for building user interfaces. I've developed a range of projects and can tackle complex front-end challenges.
+### **⚡ DevOps & Workflow Optimization**  
+I focus on **automation, scalability, and collaboration** with:  
+- **Git & Version Control** – Strong knowledge of Git workflows  
+- **CI/CD Pipelines** – Automating builds, testing, and deployment  
 
-- **TypeScript:** I have a deep understanding of TypeScript and how it improves code quality, maintainability, and developer productivity. I frequently use it in my projects.
+### **🎨 UI/UX & Design Thinking**  
+I value **user experience** and have an eye for **intuitive and aesthetically pleasing** designs.  
 
-- **Cloud Computing:** I'm well-versed in cloud computing platforms like AWS, Azure, and Google Cloud. I can deploy, scale, and maintain applications in the cloud, ensuring reliability and performance.
+---
 
-- **Node.js:** I enjoy working on the server-side as well. I'm experienced in Node.js and can build robust APIs and backend services.
+## 📫 **Let's Connect**  
 
-- **Database Management:** I have knowledge of various database systems, including SQL (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB), and can design efficient database schemas.
-
-- **Version Control:** I use Git extensively for version control and collaboration, and I'm comfortable with Git workflows, including branching and pull requests.
-
-- **DevOps:** I have a keen interest in DevOps practices, including CI/CD pipelines, containerization (Docker), and orchestration (Kubernetes). I can automate deployment processes for smoother development workflows.
-
-- **UI/UX Design:** I have a good eye for UI/UX design principles, which helps me create user-friendly and visually appealing web applications.
-
-
-## 📫 Let's Connect
-
-I'm open to collaboration and new opportunities. If you'd like to reach out, feel free to connect with me:
+I'm always open to **collaborations, new opportunities, and tech discussions**! 🚀  
 
 <p>
-<a href="https://www.linkedin.com/in/coderay/" target="_blank" style="text-decoration: none;">
-   <img src="./images/linkedin.png" alt="linkedin" width="75px" height="75px">
+<a href="https://www.linkedin.com/in/coderay/" target="_blank">
+   <img src="./images/linkedin.png" alt="LinkedIn" width="75px" height="75px">
 </a>
 
-<a href="https://www.raymondmay.com/" target="_blank" style="text-decoration: none;">
-   <img src="./images/profile_pic.png" alt="personal site" width="75px" height="75px">
+<a href="https://www.raymondmay.com/" target="_blank">
+   <img src="./images/profile_pic.png" alt="Personal Website" width="75px" height="75px">
 </a>
 </p>
 
-Feel free to get in touch if you'd like to collaborate on a project or discuss web development, React, TypeScript, cloud computing, Node.js, or anything else related to technology!
+💡 Feel free to reach out if you want to collaborate on a project, discuss **React, TypeScript, cloud computing, DevOps**, or anything tech-related!  
 
-Thank you for visiting my GitHub profile! 😄
-
+Thanks for stopping by! 😃✨  
