@@ -51,15 +51,21 @@ I care about clean architecture, developer experience, and shipping things that 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raymondmay95&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raymondmay95&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondmay95&layout=compact&langs_count=8" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondmay95&layout=compact&langs_count=8)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raymondmay95" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=raymondmay95)
-
-![Profile Views](https://komarev.com/ghpvc/?username=raymondmay95&style=flat)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raymondmay95&style=flat" />
+</p>
 
 ---
 
