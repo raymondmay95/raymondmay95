@@ -1,44 +1,65 @@
-# 👋 Hey there, I'm **Raymond-Arthur K. May**  
+# Hi, I'm Raymond-Arthur K May 👋
 
-Welcome to my GitHub! I'm a passionate **web developer** who loves building modern, efficient, and user-friendly web applications.  
-
-## 🚀 **Tech Stack & Expertise**  
-
-### **🌐 Web Development**  
-I specialize in crafting **responsive and interactive** web applications using:  
-- **HTML, CSS, JavaScript** – The core building blocks of the web  
-- **React & TypeScript** – For scalable, maintainable, and performant front-end applications  
-
-### **🖥️ Backend & Cloud**  
-Beyond front-end, I build and deploy **robust backend services** with:  
-- **Node.js** – API development & server-side logic  
-- **Database Management** – SQL (PostgreSQL, MySQL) & NoSQL (MongoDB)  
-- **Cloud Computing** – AWS, Azure, and Google Cloud for scalable infrastructure  
-
-### **⚡ DevOps & Workflow Optimization**  
-I focus on **automation, scalability, and collaboration** with:  
-- **Git & Version Control** – Strong knowledge of Git workflows  
-- **CI/CD Pipelines** – Automating builds, testing, and deployment  
-
-### **🎨 UI/UX & Design Thinking**  
-I value **user experience** and have an eye for **intuitive and aesthetically pleasing** designs.  
+Web developer focused on building fast, accessible, and maintainable products.  
+I care about clean architecture, developer experience, and shipping things that last.
 
 ---
 
-## 📫 **Let's Connect**  
+## 🧰 Tech Stack
 
-I'm always open to **collaborations, new opportunities, and tech discussions**! 🚀  
+**Frontend**
+- TypeScript, React, Next.js
+- Tailwind CSS, CSS Modules
+- Playwright, Jest
 
-<p>
-<a href="https://www.linkedin.com/in/coderay/" target="_blank">
-   <img src="./images/linkedin.png" alt="LinkedIn" width="75px" height="75px">
-</a>
+**Backend**
+- Node.js, Fastify / NestJS
+- Python, FastAPI
+- PostgreSQL, Prisma / SQLAlchemy
 
-<a href="https://www.raymondmay.com/" target="_blank">
-   <img src="./images/profile_pic.png" alt="Personal Website" width="75px" height="75px">
-</a>
-</p>
+**DevOps & Tooling**
+- Docker, Docker Compose
+- GitHub Actions
+- Vercel / Fly.io / Render
 
-💡 Feel free to reach out if you want to collaborate on a project, discuss **React, TypeScript, cloud computing, DevOps**, or anything tech-related!  
+---
 
-Thanks for stopping by! 😃✨  
+## 🚀 What I’m Working On
+
+- Building scalable web apps with modern React and API-first backends
+- Improving developer experience through better tooling, testing, and documentation
+- Exploring performance, accessibility, and system design
+
+---
+
+## 🧠 Principles
+
+- **Clarity over cleverness**
+- **Types at the boundaries**
+- **Fail fast, log clearly**
+- **Automate the boring stuff**
+
+---
+
+## 🛠️ Beyond Code
+
+- 📡 **Ham radio certified**
+- 🖥️ Programming and tinkering with **Raspberry Pi**
+- 🧵 **3D printing** and hardware projects
+- 🌊 **Surfing** when I’m offline
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondmay95&show_icons=true&hide_title=true)
+
+---
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/coderay/
+
+---
+
+_Always learning. Always shipping._
