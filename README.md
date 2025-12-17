@@ -52,7 +52,7 @@ I care about clean architecture, developer experience, and shipping things that 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondmay95&show_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondmay95&show_icons=true&hide_title=true&count_private=true)
 
 ---
 
